@@ -1,0 +1,5 @@
+{
+  "user1@email.com": ["chatHDC", "SP_PRECON"],
+  "user2@email.com": ["GILEAD_NRC331", "TCV"],
+  "user3@email.com": ["chatHDC", "TCV"]
+}
